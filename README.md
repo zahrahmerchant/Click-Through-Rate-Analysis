@@ -6,7 +6,7 @@ This project analyzes click-through rates (CTR) for advertising campaigns using 
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zahrahmerchant/Click-Through-Rate-Analysis
    ```
 2. Navigate to the project directory:
    ```bash
